@@ -20,23 +20,23 @@ Begginer
 ## 💻 🛠️ Technologies and Tools I Use:
 
 <div>
-  <img align="center" alt="Tomio-html"        height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"                 />
-  <img align="center" alt="Tomio-css"         height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"                   />
-  <img align="center" alt="Tomio-js"          height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"                />
-  <img align="center" alt="Tomio-ts"          height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"                />
-  <img align="center" alt="Tomio-php"         height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"                           />          
-  <img align="center" alt="Tomio-python"      height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"            />
-  <img align="center" alt="Tomio-react"       height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"              />      
-  <img align="center" alt="Tomio-nodejs"      height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"            />
-  <img align="center" alt="Tomio-sql"         height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Tomio-postgreesql" height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"    />
-  <img align="center" alt="Tomio-postman"     height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"                   />
-  <img align="center" alt="Tomio-docker"      height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"            />
-  <img align="center" alt="Tomio-git"         height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                           />
-  <img align="center" alt="Tomio-github"      height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"                     />
-  <img align="center" alt="Tomio-gitlab"      height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"                     />
-  <img align="center" alt="Tomio-vscode"      height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"                     />
-  <img align="center" alt="Tomio-figma"       height="80" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"                       />
+  <img align="center" alt="Tomio-html"        height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"                 />
+  <img align="center" alt="Tomio-css"         height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"                   />
+  <img align="center" alt="Tomio-js"          height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"                />
+  <img align="center" alt="Tomio-ts"          height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"                />
+  <img align="center" alt="Tomio-php"         height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"                           />          
+  <img align="center" alt="Tomio-python"      height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"            />
+  <img align="center" alt="Tomio-react"       height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"              />      
+  <img align="center" alt="Tomio-nodejs"      height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"            />
+  <img align="center" alt="Tomio-sql"         height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Tomio-postgreesql" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"    />
+  <img align="center" alt="Tomio-postman"     height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"                   />
+  <img align="center" alt="Tomio-docker"      height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"            />
+  <img align="center" alt="Tomio-git"         height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                           />
+  <img align="center" alt="Tomio-github"      height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"                     />
+  <img align="center" alt="Tomio-gitlab"      height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"                     />
+  <img align="center" alt="Tomio-vscode"      height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"                     />
+  <img align="center" alt="Tomio-figma"       height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"                       />
 </div>
 
 --------
