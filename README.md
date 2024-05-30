@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Begginer
 --------
 
-🇧🇷 Formado em análise e desenvolvimento de sistema em 2021. Rápida atuação como Dev. Full Stack. Tentando uma nova oportunidade de trabalho na área. Apaixonado por tecnologia e música. Pai, gamer, músico e esportista nas horas vagas. 
+🇧🇷 Formado em análise e desenvolvimento de sistema em 2021. Rápida atuação como Dev. Full Stack. Tentando uma nova oportunidade de trabalho na área. Apaixonado por tecnologia e música. Marido, pai, gamer, músico e esportista nas horas vagas. 
 
 
-🇺🇸 Graduated in system analysis and development in 2021. Rapid performance as Full Stack Dev. Trying a new job opportunity in the area. Passionate about technology and music. Father, gamer, musician and sportsman in his spare time.
+🇺🇸 Graduated in system analysis and development in 2021. Rapid performance as Full Stack Dev. Trying a new job opportunity in the area. Passionate about technology and music. Husband, father, gamer, musician and sportsman in his spare time.
 
 
 * 🌍  I'm based in 🇧🇷 Japão 🇺🇸 Japan
