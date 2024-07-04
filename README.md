@@ -14,6 +14,8 @@ Begginer
 
   
 * 🧠  I'm learning 🇧🇷 Desenvolvimento Full Stack  🇺🇸 Full Stack Development
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 --------
 
 
