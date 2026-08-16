@@ -10,7 +10,7 @@ Begginer
 🇺🇸 Graduated in system analysis and development in 2021. Rapid performance as Full Stack Dev. Trying a new job opportunity in the area. Passionate about technology and music. Husband, father, gamer, musician and sportsman in his spare time.
 
 
-* 🌍  I'm based in 🇧🇷 Japão 🇺🇸 Japan
+* 🌍  I'm based in 🇧🇷 Brasil 🇺🇸 Brazil
 
   
 * 🧠  I'm learning 🇧🇷 Desenvolvimento Full Stack  🇺🇸 Full Stack Development
